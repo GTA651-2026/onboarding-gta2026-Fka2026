@@ -6,34 +6,47 @@
 
 ---
 
-## Cas choisi
+## Cas choisit
 
-_(Klarna / GitHub Copilot Enterprise / Morgan Stanley)_
+ GitHub Copilot Enterprise 
 
 ## 1. Probleme d'affaires resolu
 
-_(En 2-3 phrases : quel probleme concret l'organisation cherchait-elle a resoudre ?)_
+L’organisation cherchait à réduire le temps consacré aux tâches répétitives de programmation et à accélérer le développement logiciel.
+Les développeurs perdaient également beaucoup de temps à rechercher de la documentation, comprendre du code existant et corriger certaines erreurs techniques
 
 ## 2. Fonction d'affaires ciblee
 
-_(Service client, developpement logiciel, analyse financiere, etc.)_
+Développement logiciel et gestion des connaissances techniques.
 
 ## 3. Role specialise que l'agent orchestre
 
-_(Nommez-le precisement : agent de service client, agent developpeur, agent analyste, etc.)_
+Agent développeur intelligent (copilote de développement logiciel).
 
 ## 4. Valeur creee — quantifiee avec donnees publiques
 
-_(Chiffres concrets issus des sources du cours. Ex. : 700 agents equivalents, 55 % plus rapide, etc.)_
+Les développeurs peuvent accomplir certaines tâches de programmation jusqu’à 55 % plus rapidement avec GitHub Copilot.
+Environ 46 % du code produit dans certains projets est généré automatiquement par l’outil.
+L’outil améliore également la productivité, réduit le temps de recherche d’information et accélère l’intégration des nouveaux développeurs.
 
 ## 5. Risque principal et mitigation concrete
 
-_(Quel est le risque le plus important ? Quelle mesure concrete le reduit ?)_
+Production de code incorrect, non sécurisé ou ne respectant pas les standards de l’entreprise.
+Mitigation concrete
+Maintenir une validation humaine obligatoire du code produit par l’IA :
+revue de code par les développeurs ;
+tests automatisés ;
+politiques de sécurité logicielle ;
+accès contrôlé à la documentation interne.
 
 ## 6. Condition de succes pour votre organisation
 
-_(Qu'est-ce qui doit etre en place pour que ce deploiement agentique fonctionne ?)_
+Pour réussir un déploiement agentique comme GitHub Copilot Enterprise, l’organisation doit :
+disposer d’une bonne gouvernance TI ;
+former les employés à l’utilisation responsable de l’IA ;
+intégrer l’outil aux environnements de développement existants ;
+établir des règles claires de validation, sécurité et confidentialité du code ;
+favoriser l’adoption par les équipes techniques.
 
----
 
 > **Rappel :** mettez a jour `ai-usage.md` a la racine du depot, meme si vous n'avez utilise aucun outil IA.
